@@ -19,7 +19,7 @@ client.once(Events.ClientReady, c => {
 
 
 client.on('messageCreate', async message => {
-    console.log(message)
+    // console.log(message)
     // console.log(message.member.voice.channel);
     var channel = message.member.voice.channel;
     // console.log(channel)
