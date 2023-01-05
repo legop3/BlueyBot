@@ -4,7 +4,7 @@
   "description": "a discord bot that plays the bluey theme song whenever someone types bluey into the chat",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "bluey",
